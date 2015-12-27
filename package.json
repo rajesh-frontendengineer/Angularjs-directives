@@ -1,0 +1,26 @@
+{
+  "name": "angularjs-directives",
+  "version": "1.0.0",
+  "description": "fundamentals",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajesh-frontendengineer/Angularjs-directives.git"
+  },
+  "keywords": [
+    "directives"
+  ],
+  "author": "rajesh veldandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajesh-frontendengineer/Angularjs-directives/issues"
+  },
+  "homepage": "https://github.com/rajesh-frontendengineer/Angularjs-directives#readme",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "requirejs": "^2.1.22"
+  }
+}
